@@ -3,7 +3,7 @@ description: Mathematics student and researcher at VIU
 baseurl: ""
 url: "https://brendengray.ca"
 
-theme: cvless
+#theme: cvless
 
 # site settings
 taglong: Undergraduate research in graph theory and pursuit-evasion games
