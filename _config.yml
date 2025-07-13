@@ -1,7 +1,7 @@
-title: ""
-description: ""
+title: "Brenden Gray"
+description: "Mathematics student at VIU"
 baseurl: ""
-url: ""
+url: "https://brendengray.ca"
 
 exclude:
   - demo/
