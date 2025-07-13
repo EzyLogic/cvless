@@ -1,30 +1,36 @@
-basics:
-  name: Brenden Gray
-  label: BSc Mathematics Student
-  email: brenden1104@gmail.com
-  url: https://brendengray.ca
-  summary: >
-    Undergraduate math student at VIU with interests in graph theory and pursuit-evasion game theory. NSERC USRA researcher.
+---
+layout: cv
+title: Brenden Gray
+---
 
-education:
-  - institution: Vancouver Island University
-    area: Mathematics (BSc)
-    studyType: Bachelor
-    startDate: 2022
-    endDate: 2026
+# Brenden Gray
 
-projects:
-  - name: NSERC USRA Research
-    description: >
-      Damage number of graphs in pursuit-evasion games. Developed Python verification tools using NetworkX. Proved novel result.
+Undergraduate student at Vancouver Island University (BSc Mathematics, expected June 2026).
 
-skills:
-  - name: Programming
-    keywords:
-      - Python
-      - C
-      - C++
-  - name: Typesetting
-    keywords:
-      - LaTeX
-      - TikZ
+## Contact
+
+- Email: brenden1104@gmail.com
+- Website: [brendengray.ca](https://brendengray.ca)
+
+## Education
+
+- **BSc Mathematics**, Vancouver Island University (Expected 2026)
+  - Minor in Computer Science
+  - NSERC USRA Recipient
+
+## Research
+
+- Damage number of graphs in pursuit-evasion games.
+- Developed Python tools with NetworkX.
+- Presented at VIU Math Seminar and Sprouts Conference.
+
+## Work Experience
+
+- VIU Math Learning Centre (2023–Present)
+  - Drop-in math tutor helping students with university-level courses.
+
+## Technical Skills
+
+- **Programming:** Python, C, C++
+- **Typesetting:** LaTeX, TikZ
+- **Tools:** Unix/Linux CLI, Git
