@@ -3,11 +3,13 @@ layout: home
 title: Home
 ---
 
-# Brenden Gray
+# Short Bio
 
-BSc Mathematics student at Vancouver Island University (expected June 2026). Passionate about graph theory, discrete mathematics, and their connections to computer science.
+I'm in my final year of the BSc Mathematics program at Vancouver Island University. I view mathematics as both a science and an art, valuing its abstract beauty as well as its real-world applications.
 
-I am an undergraduate researcher with experience in graph theory and pursuit-evasion game theory, supported by an NSERC USRA. I enjoy helping others find the joy in math working as a tutor at the VIU Math Learning Centre.
+My primary research interests include discrete mathematics, abstract algebra, and applying computer science techniques to support mathematical research. I conducted undergraduate research in graph theory and pursuit-evasion game theory with the support of an NSERC USRA. I also enjoy sharing my passion for mathematics as a tutor at the VIU Math Learning Centre.
+
+Beyond mathematics, I enjoy science fiction, R&B music, competitive video games, and I'm currently learning Spanish as a second language.
 
 Feel free to learn more about my work and experience:
 
@@ -16,4 +18,3 @@ Feel free to learn more about my work and experience:
 ## Contact
 
 - Email: brenden1104@gmail.com
-- Website: [brendengray.ca](https://brendengray.ca)
