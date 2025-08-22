@@ -17,4 +17,5 @@ Feel free to learn more about my work and experience:
 
 ## Contact
 
-- Email: brenden1104@gmail.com
+- Vancouver Island University, Nanaimo, BC
+- Email: Brenden.Gray@my.viu.ca
