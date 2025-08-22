@@ -6,8 +6,7 @@ url: "https://brendengray.ca"
 #theme: cvless
 
 # site settings
-taglong: Undergraduate research in graph theory and pursuit-evasion games
-tagshort: Mathematics Student
+taglong: Undergraduate mathematics student/tutor and aspiring graph theorist
 cv: true
 
 # author settings
@@ -15,11 +14,6 @@ author:
   name: Brenden Gray
   email: brenden1104@gmail.com
 photo: assets/files/photo.jpg  # optional, remove if you don't have a photo
-joblines:
-  - Vancouver Island University
-  - BSc Mathematics, Expected June 2026
-address: Nanaimo, BC, Canada
-phone: ""  # You can add a number here or leave it blank
 
 # build settings
 permalink: pretty
