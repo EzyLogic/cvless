@@ -13,7 +13,7 @@ cv: true
 author:
   name: Brenden Gray
   email: brenden1104@gmail.com
-photo: assets/images/IMG1.jpg  # optional, remove if you don't have a photo
+photo: assets/images/IMG2.jpg  # optional, remove if you don't have a photo
 
 # build settings
 permalink: pretty
